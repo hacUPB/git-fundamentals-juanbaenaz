@@ -43,11 +43,11 @@ int main(int argc, char *argv[]) {
     /*Print the result*/
     if(count == 1)
     {
-        printf(stderr"%d is a prime number\n",number);
+        printf("%d is a prime number\n",number);
     }
     else
     {
-        printf(stdout"%d is not a prime number\n",number);
+        printf("%d is not a prime number\n",number);
     }
 
     /*Print the result*/
