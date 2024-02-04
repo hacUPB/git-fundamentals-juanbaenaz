@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
     }
     else
     {
-        printf("6 is not a prime number\n",number);
+        printf("%d is not a prime number\n",number);
     }
 
     /*Print the result*/
